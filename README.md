@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham
 - 👀 I’m interested in Tech 
 - 🌱 I’m currently learning Web 3.0
-- 💞️ I’m looking to collaborate on Crypto ,Dapp 
+- 💞️ I’m looking to collaborate on Web3 projects ,Dapp ,DAOs
 - 📫 How to reach me 
 
 <!---
